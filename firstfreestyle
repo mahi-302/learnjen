@@ -1,0 +1,5 @@
+node{
+stage{
+echo 'my first free job'
+}
+}

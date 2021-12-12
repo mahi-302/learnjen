@@ -1,0 +1,5 @@
+node("main"){
+    stage("xyz"){
+        println('my first job in pipeline scrpit')
+    }
+}
